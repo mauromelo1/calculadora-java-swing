@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 public class Teclado extends JPanel {
 
 	public Teclado() {
-		setBackground(Color.RED);
+		//setBackground(Color.RED);
 	}
 
 }
